@@ -5,3 +5,5 @@
 https://mfavant.xyz
 
 The mfavant is a toy software team. You can concat us with email heizuboriyo@gmail.com if you want to join us.
+
+Donate to us https://buy.stripe.com/28E6oHa7B8ZW6GzfuUabK00
